@@ -1,0 +1,8 @@
+{
+  "payload": {
+    "type": "revoke",
+    "date": "2026-11-05",
+    "revoked": []
+  },
+  "sig": "b06c45762ed661355c7f086fb3040b5a60716e99dcf54997d2cc90fe5da9144f6814a60c306c68191417a2264e611665ebd1caa08f62e1d9fb08f6ee9ed8400a"
+}
