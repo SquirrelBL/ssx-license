@@ -3,7 +3,9 @@
     "type": "control",
     "date": "2026-11-05",
     "mode": "allowlist",
-    "active": []
+    "active": [
+      "bff22c211113"
+    ]
   },
-  "sig": "32c5cc274c281249215e0f4ed10993aa3482aae7511aa95cbbbc957779a89107528886ce0b2780419e8fb97fb1c6157b2e56705caa5ea1c9e7a8728881ebc207"
+  "sig": "8fa557f94419d3f66626723fbbbf2980258a3d9a182f1e057cf0a1b534738130e2348e1537446c617e155e70a74789d3c5a8876ccc231fc3a6f9978b15ea270b"
 }
